@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 11 00:34:24 IST 2018
+http\://repo.spring.io/ext-release-local/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1541876664606
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1541876663581
+https\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/ext-release-local/.lastUpdated=1541876664038
+https\://repo.spring.io/snapshot/.lastUpdated=1541876663237
